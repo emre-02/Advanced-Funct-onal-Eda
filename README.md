@@ -1,1 +1,1 @@
-# Advanced-Funct-onal-Eda
+# Advanced-Functional-Eda
